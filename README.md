@@ -2,6 +2,10 @@
 
 I analyzed 172 Instagram Reels from my OwenFit account to understand which content types receive the most views and how engagement metrics relate to views.
 
+## Interactive Dashboard
+
+[View the OwenFit Tableau dashboard]((https://public.tableau.com/views/Book1_17615359491380/OwenFitOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
 ## Questions
 
 * Which content types have the highest median and average views?
