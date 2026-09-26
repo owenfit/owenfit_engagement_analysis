@@ -17,6 +17,8 @@ The dataset contains reels posted from March through August 2026. I recorded the
 
 Each row represents one reel, with its content type, views, video length, and engagement metrics.
 
+I also used Tableau Public to build a dashboard comparing views across content types and showing how nine engagement and retention metrics relate to views.
+
 ## Methods
 
 * Checked for missing values, duplicate post IDs, and invalid numeric values.
