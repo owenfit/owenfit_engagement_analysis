@@ -4,7 +4,7 @@ I analyzed 172 Instagram Reels from my OwenFit account to understand which conte
 
 ## Interactive Dashboard
 
-[View the OwenFit Tableau dashboard]((https://public.tableau.com/views/Book1_17615359491380/OwenFitOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the OwenFit Tableau dashboard](https://public.tableau.com/views/Book1_17615359491380/OwenFitOverview?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Questions
 
